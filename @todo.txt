@@ -1,0 +1,2 @@
+1. Predefined template views.
+2. Able to change template view easily as Virtual Type or simply in XML definition.
